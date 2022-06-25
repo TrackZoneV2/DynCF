@@ -1,5 +1,5 @@
 # DynCF
-Your website at home and protect by cloudflare
+Your website at home and protect by cloudflare, Don’t be bothered by your dynamic ip and finally open your website from home.
 
 ### Dependencies NPM :
  * [phin](https://www.npmjs.com/package/phin "lien")
